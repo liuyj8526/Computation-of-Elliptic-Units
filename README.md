@@ -4,7 +4,7 @@
 In this project we compute the elliptic units and the polynomial required to generate the Hilbert class field of some real quadratic fields. Implemented using SageMath based on *S. Dasgupta, Computations of Elliptic Units for Real Quadratic Fields, Canadian Journal of Mathematics, 59 (2007), 553-574*.
 
 ## Results 
-See [tables](./Examples_of_Tables.pdf) for the results from our computations. Details of implementation of the code, as well as an errata to the aforementioned paper can be found [here](./Notes_on_the_Implementation.pdf).
+See [tables](./Examples_of_Tables.pdf) for the results from our computations. Details of implementation of the code as well as an errata to the aforementioned paper can be found [here](./Notes_on_the_Implementation.pdf).
 
 ## Instructions 
 To use the code for computation, download all the files in [code](./code) and run them in SageMath's Jupyter Notebook. 

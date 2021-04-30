@@ -1,7 +1,7 @@
 # Computation-of-Elliptic-Units
 
 ## Description
-In this project we compute the elliptic units and the polynomial required to generate the Hilbert class field of some real quadratic fields, used for the computation section of [*Dasgupta and Kakde (2021) Brumer-Stark Units and Hilbert's 12th Problem*](https://arxiv.org/abs/2103.02516). Implemented using SageMath based on *S. Dasgupta, Computations of Elliptic Units for Real Quadratic Fields, Canadian Journal of Mathematics, 59 (2007), 553-574*.
+In this project we compute the elliptic units and the polynomial required to generate the Hilbert class field of some real quadratic fields, used for the computation section of [Dasgupta and Kakde (2021) Brumer-Stark Units and Hilbert's 12th Problem](https://arxiv.org/abs/2103.02516). Implemented using SageMath based on [Dasgupta(2007) Computations of elliptic units for real quadratic fields](https://services.math.duke.edu/~dasgupta/papers/comp.pdf).
 
 ## Results 
 See [tables](./Examples_of_Tables.pdf) for the results from our computations. Details of implementation of the code as well as an errata to the aforementioned paper can be found [here](./Notes_on_the_Implementation.pdf).

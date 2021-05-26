@@ -13,5 +13,5 @@ Open p-adic_Main.ipynb, and specify values for p,N,M in the first cell. In the s
 
 Please see the code for more details.
 
-## Contributers 
+## Contributors 
 Max Fleischer, Yijia Liu, under the guidance of Prof. Samit Dasgupta.

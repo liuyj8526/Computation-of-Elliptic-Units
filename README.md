@@ -9,9 +9,9 @@ See [tables](./Examples_of_Tables.pdf) for the results from our computations. De
 ## Instructions 
 To use the code for computation, download all the files in [code](./code) and run them in SageMath's Jupyter Notebook. 
 
-Open p-adic_Main.ipynb, and specify values for p,N,M in the first cell. In the second cell the default cap is at 1000, but can be changed to any value. The first run will be slow, for example p=5 N=7 M=100 may take a few hours to run. These values are saved in the file and so the next run with the same p,N,M values will load from the file directly instead of calculating them all over again.
+Open p-adic_Main.ipynb, and specify values for p,N,M in the first cell. In the second cell the default cap is at 1000, but can be changed to any value. The first run will be slow, for example p=5 N=7 M=100 may take a few hours to run. These values are saved in a file and so the next run with the same p,N,M values will load from the file directly instead of calculating them all over again.
 
-In the files, computed integrals for p=3 N=2,M-100, p-5,N-11,M-100, p-7,N-5,M-100 have been added for the convenience of quickly generating examples. 
+In the files, the following computed integrals have been added for the convenience of quickly generating examples: p=3 N=2,M-100; p=5,N=11,M=100; and p=7,N=5,M=100.
 
 Please see the code for more details.
 
